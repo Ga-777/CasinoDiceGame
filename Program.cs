@@ -95,6 +95,7 @@ namespace CasinoDiceGame
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Invalid option. Please try again.");
                     Console.ForegroundColor = ConsoleColor.Green;
+
                 }
 
                 if (betChoice == 1)
