@@ -88,6 +88,7 @@ namespace CasinoDiceGame
                 Console.WriteLine("");
                 Console.WriteLine("Pick your bet:");
                 Console.WriteLine("|-|-|-|-|-|-|");
+                Console.WriteLine();
                 Console.WriteLine("1. Bet on Doubles (*2)");
                 Console.WriteLine();
                 Console.WriteLine("2. Bet on not Doubles (/2)");
